@@ -1,3 +1,9 @@
 ![alt text](Hello_press_the_screen.png "Screenshot of my program!")
 
 https://rawgit.com/CamillaMondrup/Mini_ex/master/Mini_ex1/empty-example/index.html
+
+### Describe your first independent coding process (in relation to thinking, reading, copying, modifying, writing, uploading, sharing, commenting code)###
+
+### How your coding process is differ or similar to reading and writing text? (You may also reflect upon Annette Vee's text on coding literacy) ###
+
+### What might be the potential and possibility of coding practice? ###
