@@ -1,0 +1,1 @@
+![alt text](Mini_ex/hello_press_the_screen.png "Screenshot of my program!"
