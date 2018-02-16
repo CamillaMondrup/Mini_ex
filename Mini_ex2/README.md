@@ -1,3 +1,4 @@
+![alt text](MonaLisaSmile.png "Screenshot of my fun program!")
 
 
 Press the link to try out my very funny program:
