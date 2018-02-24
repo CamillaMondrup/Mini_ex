@@ -5,6 +5,7 @@
 
 
 ### link:
+Remember to turn on the sound on your computer!!
 https://rawgit.com/CamillaMondrup/Mini_ex/master/Mini_ex3/empty-example/index.html
 
 ### About my program 
