@@ -1,5 +1,8 @@
 ## Outer Space
 
+![alt text](play_mode.png)
+![alt text](finished_mode.png)
+
 ## link to my program: 
 https://rawgit.com/CamillaMondrup/Mini_ex/master/Mini_ex5/empty-example/index.html
 
