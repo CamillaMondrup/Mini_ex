@@ -1,3 +1,9 @@
+## Outer Space
+
+## link to my program: 
+https://rawgit.com/CamillaMondrup/Mini_ex/master/Mini_ex5/empty-example/index.html
+
+
 Describe how does your game/game object works?
 My game is a very simple game that is about how fast the user can remove all the “planets” from the screen. When all the planets are gone from the screen the program shows the user how much time they spent, and tells the user how to start again to try and improve on their score. 
 
