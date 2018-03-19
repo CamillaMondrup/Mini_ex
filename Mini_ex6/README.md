@@ -1,3 +1,3 @@
 ## Generative Paint
 
-## Link 
+## Link to my program 
