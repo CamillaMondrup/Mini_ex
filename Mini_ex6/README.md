@@ -1,7 +1,7 @@
 ## Generative Paint
 
 
-![alt text](play_mode.png)
+![alt text](generative_paint.png)
 ## Link to my program:
 https://rawgit.com/CamillaMondrup/Mini_ex/master/Mini_ex6/empty-example/index.html
 
