@@ -6,5 +6,5 @@
 
 
 **The Generative Raven**
-I collaborated with *Camilla* from my study group.
+I collaborated with [Nina from my study group.] (https://github.com/nborgbjerg)
 
