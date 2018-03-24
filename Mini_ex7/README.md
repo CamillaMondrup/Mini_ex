@@ -8,3 +8,5 @@
 **The Generative Raven**
 I collaborated with [Nina](https://github.com/nborgbjerg) from my study group.
 
+### What is the aesthetic aspects of your program in particular to the relationship between code and language?
+
