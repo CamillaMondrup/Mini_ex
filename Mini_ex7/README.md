@@ -6,5 +6,5 @@
 
 
 **The Generative Raven**
-I collaborated with [Nina from my study group.] (https://github.com/nborgbjerg)
+I collaborated with [Nina from my study group.](https://github.com/nborgbjerg)
 
