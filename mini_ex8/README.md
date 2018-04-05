@@ -1,16 +1,21 @@
 
 ![alt text](search.png)
 
-[Link to the program](https://rawgit.com/CamillaMondrup/mini_ex/master/mini_ex8/index.html)
+[Try our search program out!](https://rawgit.com/CamillaMondrup/mini_ex/master/mini_ex8/index.html)
+
+This program was created together with [Ester](https:https://github.com/estermarieAA) from my study group.
+
+## What is the program about? which API have you used and why?
+Our program is a search enginge where the user can type in a word that they like or find interesting, and when you hit the search button, the program will get photos from the Tumblr database, that are tagged with the specific word that the user typed in. We used the Tumblr API, because we originally wanted to create something like a collage, but with all different sorts of content such as texts, photos, videos and so on, and this is exactly what you can find posted to Tumblr. 
+
+### (individual)Can you describe and reflect your process of making this mini exercise in terms of acquiring, processing, using and representing data? How much do you understand this provided data? How do platform providers sort the data and give you the selected data?
+First of all i think that this was a difficult exercise, because I did not feel like I understood fully what APIs and what they can do, when we started this working on this program. I feel like this week's mini-ex was difficult to build around a societial, political or critical standpoint because we were more focused on just getting something to work, rather than throwing ourselves into something way out of our league. 
+When we had chosen the Tumblr API we spent some time trying to figure out how to get the API key. We had to registrer an application to get the key, which was a bit wierd because we weren't sure wether our program could qualify as an application. Anyway, we did manage to get the key and we were now able to start working on our program. 
+Our original idea, as mentioned before, was to create a collage from a word. 
+
+We started by figuring out what we needed in our query. Tumblr had a list of examples which explained what you had to do if wanted to do certain things with the API, so we used this to figure out how to query posts based on their tags. Ester was really good at figuring out how to find the data that we needed in the JSON file that we got, so i was lucky to have her! 
 
 
-**The Generative Raven**
-I collaborated with [Nina](https://github.com/nborgbjerg) from my study group.
-    Who are you collaborate with?
-    This program was created together with Ester from my study group.
-    A screenshot of your program
-    A title of your program
-    A URL link to your program and run on a browser, see: https://rawgit.com/. (if it can't run on a browser, provide a short video documentation? (or animated gif))
-    What is the program about? which API have you used and why?
-    (individual)Can you describe and reflect your process of making this mini exercise in terms of acquiring, processing, using and representing data? How much do you understand this provided data? How do platform providers sort the data and give you the selected data?
-    (individual)Try to formulate a question in relation to web APIs or querying processes that you want to investigate further when you have more time.
+** not finished ** 
+
+### (individual)Try to formulate a question in relation to web APIs or querying processes that you want to investigate further when you have more time.
