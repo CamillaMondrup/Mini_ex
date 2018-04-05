@@ -1,7 +1,7 @@
 
 ![alt text](miniex7snap.PNG)
 
-[Link to the program](https://rawgit.com/CamillaMondrup/mini_ex/master/mini_ex8/empty-example/index.html)
+[Link to the program](https://rawgit.com/CamillaMondrup/mini_ex/master/mini_ex8/index.html)
 
 
 **The Generative Raven**
