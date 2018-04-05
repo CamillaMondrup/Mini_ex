@@ -16,6 +16,6 @@ Our original idea, as mentioned before, was to create a collage from a word.
 We started by figuring out what we needed in our query. Tumblr had a list of examples which explained what you had to do if wanted to do certain things with the API, so we used this to figure out how to query posts based on their tags. Ester was really good at figuring out how to find the data that we needed in the JSON file that we got, so i was lucky to have her! 
 
 
-**not finished** 
+# not finished
 
 ### (individual)Try to formulate a question in relation to web APIs or querying processes that you want to investigate further when you have more time.
