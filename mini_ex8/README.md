@@ -15,7 +15,11 @@ Our original idea, as mentioned before, was to create a collage from a word.
 
 We started by figuring out what we needed in our query. Tumblr had a list of examples which explained what you had to do if wanted to do certain things with the API, so we used this to figure out how to query posts based on their tags. Ester was really good at figuring out how to find the data that we needed in the JSON file that we got, so i was lucky to have her! 
 
+We did have a hard time getting everything to work properly, sometimes it seemed like one thing was working and then some time after, that thing had just stopped working, and we couldn't figure out why. 
 
-# not finished
+We ended up having to revise our plan for our program, because we weren't able to query different elements at the same time, because the path leading to a text-, video-, or photo-file, wasn't the same. That is at least what we think was happening. Instead we decided only to use photos. Another problem we ran into was that it is only possible to search 1 time in the search field. It seems like the API does change, but that the program doesn't query it again. Or maybe it does and we just couldn't see it somehow.  
 
 ### (individual)Try to formulate a question in relation to web APIs or querying processes that you want to investigate further when you have more time.
+
+
+# not finished
