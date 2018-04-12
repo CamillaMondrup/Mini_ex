@@ -2,7 +2,7 @@
 
 ![alt text](WhileYouWait.png)
 
-https://rawgit.com/CamillaMondrup/Mini_ex/master/Mini_ex5/empty-example/index.html
+https://rawgit.com/CamillaMondrup/Mini_ex/master/Mini_ex6.html
 
 ## Flowcharts 
 
