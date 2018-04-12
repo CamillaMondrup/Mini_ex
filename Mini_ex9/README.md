@@ -7,6 +7,6 @@ https://github.com/CamillaMondrup/Mini_ex/tree/master/Mini_ex3
 ## Flowcharts 
 
 
-![alt text](play_mode.png)
+![alt text](LiveStreak.png)
 
-![alt text](play_mode.png)
+![alt text](Empathibot.png)
