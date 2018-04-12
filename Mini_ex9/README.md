@@ -1,10 +1,11 @@
-# Individual work
+# Individual Work
 
 ![alt text](WhileYouWait.png)
 
 https://github.com/CamillaMondrup/Mini_ex/tree/master/Mini_ex3
 
-## Flowcharts 
+
+# Group Work 
 
 
 ![alt text](Temporality.png)
